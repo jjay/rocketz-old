@@ -13,4 +13,4 @@ django==1.4
 gevent==0.13.7
 South==0.7.5
 ws4py==0.2.2
-lxml==2.3.5
+lxml==4.6.3
